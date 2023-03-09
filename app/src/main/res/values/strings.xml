@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KnowledgeHub</string>
+    <string name="MainScreenTitle">Welcome To Knowledge Hub</string>
+    <string name="mainScreenBtnTxt">Let\'s Get Started</string>
+    <string name="Choose">Click On Any One Card</string>
+    <string name="kotlinKnowledege">Kotlin</string>
+    <string name="ReactKnowledege">React</string>
+    <string name="BlockKnowledege">Block Chain</string>
+    <string name="kotlinDesc">Kotlin Img</string>
+    <string name="kotlinPara">Kotlin is a modern programming language developed by JetBrains, the same company that created the IntelliJ IDEA integrated development environment (IDE). It was designed to be a concise, expressive, and type-safe alternative to Java, and it has gained popularity among developers for its simplicity and ease of use.</string>
+    <string name="reactPara">React is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies.</string>
+    <string name="blockPara">Blockchain.com is a cryptocurrency financial services company. The company began as the first Bitcoin blockchain explorer in 2011 and later created a cryptocurrency wallet that accounted for 28% of bitcoin transactions between 2012 and 2020.</string>
+    <string name="supportBtn">Call For Support</string>
+</resources>
